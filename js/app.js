@@ -1,4 +1,4 @@
-import * as ELEMENTS from 'elements.js';
+import * as ELEMENTS from './elements.js';
 import { Http } from './http.service.js';
 import { WeatherData, WEATHER_PROXY_HANDLER } from './weather-data.js';
 
